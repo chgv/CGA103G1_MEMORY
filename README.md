@@ -19,12 +19,12 @@ This is our side-project in Tibame Bootcamp 2022. </p>
 
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 <h3 dir="auto"><a id="user-content-contributors" class="anchor" aria-hidden="true" href="#contributors"></a>Contributors</h3>
-<p dir="auto"><a href="https://github.com/chgv/Memory/pulse/monthly"><img src="https://camo.githubusercontent.com/cd4444455ab86e35ed59b94bbcc57a2e6da1a30fdd3a36a8f076bdd79a60403e/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f534a2d57752f596f6b756c742d626f6f742e7376673f7374796c653d666f722d7468652d6261646765" alt="Contributors" data-canonical-src="https://img.shields.io/github/contributors/SJ-Wu/Yokult-boot.svg?style=for-the-badge" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/chgv/Memory/pulse/monthly"><img src="https://img.shields.io/badge/contributors-7-green" alt="Contributors" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>
 <p dir="auto">Bryce Chen - <a href="https://www.canva.com/design/DAFMLFv1U-8/9MuJY9c89zdVO-ED-WLEcA/view?utm_content=DAFMLFv1U-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" rel="nofollow">@Bryce CV</a> - <a href="mailto:chgv0926@hotmail.com">chgv0926@hotmail.com</a></p>
 <ul dir="auto">
-<li>Github Link: <a href="https://github.com/chgv/">https://github.com/chgv/</a></li>
+<li>Github Link: <a href="https://github.com/chgv/">https://github.com/chgv</a></li>
 </ul>
 </li>
 <li>
