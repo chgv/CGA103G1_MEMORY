@@ -42,7 +42,7 @@ This is our side-project in Tibame Bootcamp 2022. </p>
 <li>Github Link: <a href="https://github.com/oliver-86/">https://github.com/oliver-86</a></li>
 </li>
 <li>
-<p dir="auto">Yang - <a href="" rel="nofollow"></a> - <a href="mailto:"></a></p>
+<p dir="auto">Jason Yang - <a href="" rel="nofollow"></a> - <a href="mailto:"></a></p>
 <li>Github Link: <a href="https://github.com/yy870326/">https://github.com/yy870326</a></li>
 </li>
 <li>
