@@ -52,16 +52,6 @@ This is our side-project in Tibame Bootcamp 2022. </p>
 </ul>
 <p align="right" dir="auto">(<a href="#readme-top">back to top</a>)</p>
 
-<h2 dir="auto"><a id="user-content-feature-implements" class="anchor" aria-hidden="true" href="#feature-implements"></a>Feature implements</h2>
-<p dir="auto">The list below is our features and contributors.</p>
-<ol dir="auto">
-<li>User/Admin Login: </li>
-<li>room Appointment: </li>
-<li>Shopping Cart: </li>
-<li>Article List: </li>
-<li>Fundrasing: </li>
-</ol>
-
 ## Acknowledgments
 <ul dir="auto">
 <li><a href="https://www.tibame.com/" rel="nofollow">Tibame</a></li>
