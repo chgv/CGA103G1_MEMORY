@@ -19,8 +19,8 @@
 </head>
 
 <body>
-	<!-- header -->
 	<%@ include file="/frontend/header.file" %>
+	<!-- header -->
 	<%@ include file="/frontend/lastNews.file" %>
 	
   	<!-- Main Banner -->
