@@ -26,7 +26,7 @@ This is our side-project in Tibame Bootcamp 2022. </p>
 <p dir="auto"><a href="https://github.com/chgv/Memory/pulse/monthly"><img src="https://img.shields.io/badge/contributors-7-green" alt="Contributors" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>
-<p dir="auto">Bryce Chen - <a href="https://www.canva.com/design/DAFMLFv1U-8/9MuJY9c89zdVO-ED-WLEcA/view?utm_content=DAFMLFv1U-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" rel="nofollow">@Bryce CV</a> - <a href="mailto:chgv0926@hotmail.com">chgv0926@hotmail.com</a></p>
+<p dir="auto">Bryce Chen - <a href="https://wwww.canva.com/design/DAFMLFv1U-8/9MuJY9c89zdVO-ED-WLEcA/view?utm_content=DAFMLFv1U-8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" rel="nofollow">@Bryce CV</a> - <a href="mailto:chgv0926@hotmail.com">chgv0926@hotmail.com</a></p>
 <li>Github Link: <a href="https://github.com/chgv/">https://github.com/chgv</a></li>
 </li>
 <li>
